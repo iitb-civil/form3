@@ -205,64 +205,64 @@ export class UserForm extends Component {
 			val: 1,
 			case_a_rent:0.8,
 			case_b_rent:1.2,
-			case_a_time:[20, 15, 20, 40, 20, 15],
-			case_b_time:[20, 15, 10, 20, 20, 30]
+			case_a_time:[40, 30, 10, 20, 20, 15],
+			case_b_time:[20, 15, 20, 20, 10, 15]
 			},
 
 			case_2:{
 				val: 2,
 				case_a_rent:1.2,
 				case_b_rent:0.8,
-				case_a_time:[20, 15, 10, 40, 20, 30],
-				case_b_time:[40, 30, 20, 40, 10, 30]
+				case_a_time:[40, 15, 20, 20, 10, 15],
+				case_b_time:[20, 15, 20, 20, 20, 15]
 			},
 			
 			case_3:{
 				val: 3,
 				case_a_rent:1.2,
 				case_b_rent:1,
-				case_a_time:[20, 15, 20, 40, 10, 15],
-				case_b_time:[20, 30, 10, 20, 20, 15]
+				case_a_time:[40, 30, 20, 40, 20, 30],
+				case_b_time:[40, 15, 20, 40, 20, 15]
 			},
 
 			case_4:{
 				val: 4,
-				case_a_rent:0.8,
-				case_b_rent:1.2,
-				case_a_time:[20, 15, 10, 40, 10, 30],
-				case_b_time:[20, 30, 20, 40, 20, 30]
+				case_a_rent:1.2,
+				case_b_rent:1,
+				case_a_time:[40, 15, 10, 20, 20, 30],
+				case_b_time:[40, 15, 20, 20, 20, 15]
 			},
 
 			case_5:{
 				val: 5,
 				case_a_rent:1.2,
 				case_b_rent:1,
-				case_a_time:[20, 30, 10, 20, 10, 15],
-				case_b_time:[20, 30, 10, 40, 20, 15]
+				case_a_time:[40, 15, 10, 40, 20, 30],
+				case_b_time:[20, 30, 20, 20, 10, 30]
 			},
 
 			case_6:{
 				val: 6,
-				case_a_rent:1,
+				case_a_rent:0.8,
 				case_b_rent:1.2,
-				case_a_time:[20, 30, 20, 40, 10, 30],
-				case_b_time:[40, 30, 10, 40, 10, 15]
+				case_a_time:[40, 30, 20, 20, 10, 30],
+				case_b_time:[20, 30, 20, 20, 20, 30]
 			},
 
 			case_7:{
 				val: 7,
-				case_a_rent:0.8,
-				case_b_rent:1.2,
-				case_a_time:[20, 15, 10, 20, 10, 30],
-				case_b_time:[20, 30, 10, 40, 10, 15]
+				case_a_rent:1.2,
+				case_b_rent:0.8,
+				case_a_time:[40, 30, 20, 20, 20, 30],
+				case_b_time:[40, 30, 10, 40, 20, 15]
 			},
 
 			case_8:{
 				val: 8,
-				case_a_rent:1,
-				case_b_rent:1.2,
-				case_a_time:[40, 15, 10, 40, 10, 30],
-				case_b_time:[40, 15, 20, 40, 10, 15]
+				case_a_rent:1.2,
+				case_b_rent:1,
+				case_a_time:[40, 30, 10, 20, 10, 15],
+				case_b_time:[40, 15, 10, 20, 10, 30]
 			},
 
 		}
